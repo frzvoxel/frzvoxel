@@ -17,7 +17,7 @@
 ---
 
 ### Моя статистика GitHub
-  <a href="https://github.com/frzvoxel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight" alt="Языки" height="150" /></a>
+  [<a href="https://github.com/frzvoxel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight" alt="Языки" height="150" /></a>](https://github-readme-stats.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight&cache=no)
   ---
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=frzvoxel&show_icons=true&theme=tokyonight)](https://github.com/frzvoxel)
 ---
