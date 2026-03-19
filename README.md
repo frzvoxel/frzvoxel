@@ -17,7 +17,7 @@
 ---
 
 ### Моя статистика GitHub
-  [![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight&cache=no)](https://github.com/frzvoxel)
+  [![Языки :D](https://github-readme-stats.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight&cache=no)](https://github.com/frzvoxel)
   ---
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=frzvoxel&show_icons=true&theme=tokyonight)](https://github.com/frzvoxel)
 ---
