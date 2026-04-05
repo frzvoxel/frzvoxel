@@ -17,6 +17,7 @@
 
 ### Текущие проекты
 - **CatUnlocker** — Системная утилита для Windows (WinAPI, Реестр, DISM).
+- **CatUtils** - Простой набор утилит для линукс.
 
 ### Cоциальные сети
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@frzvoxel)
