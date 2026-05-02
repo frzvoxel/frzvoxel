@@ -22,7 +22,8 @@
 ---
 
 ### Моя статистика GitHub
-  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,lua,godot,bash,winapi)](https://skillicons.dev)
-  ---
-  [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight)](https://github.com/knaic)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=monokai&hide_border=true&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knaic&show_icons=true&theme=monokai&hide_border=true" height="160" />
+</p>
 ---
