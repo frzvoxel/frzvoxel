@@ -22,7 +22,7 @@
 ---
 
 ### Моя статистика GitHub
-  [![Top Langs](https://profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knaic&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   ---
   [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight)](https://github.com/knaic)
 ---
