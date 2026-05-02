@@ -22,7 +22,7 @@
 ---
 
 ### Моя статистика GitHub
-  [![Языки :D](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=tokyonight&cache=no)](https://github.com/frzvoxel)
+  [![Языки :D](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=tokyonight&cache=no)](https://github.com/knaic)
   ---
-  [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight)](https://github.com/frzvoxel)
+  [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight)](https://github.com/knaic)
 ---
