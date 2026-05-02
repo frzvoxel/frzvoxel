@@ -22,8 +22,7 @@
 ---
 
 ### Моя статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=monokai&hide_border=true&langs_count=6" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=knaic&show_icons=true&theme=monokai&hide_border=true" height="160" />
-</p>
+  [![Языки :D](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=tokyonight&cache=no)](https://github.com/knaic)
+  ---
+  [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight)](https://github.com/knaic)
 ---
