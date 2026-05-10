@@ -25,7 +25,7 @@
     <li>
       <img src="https://raw.githubusercontent.com/knaic/knaic/main/sillycat.jpg" width="15px" /> 
       **[CatUnlocker](https://github.com/knaic/CatUnlocker)** — *Системный комбайн для Windows* <details>
-        <summary><i>Тех. стек</i></summary>
+        <summary><i>Описание</i></summary>
         <ul>
           <li>WinAPI, Реестр, DISM</li>
         </ul>
@@ -37,7 +37,7 @@
       <details>
         <summary><i>Описание</i></summary>
         <ul>
-          <li>Простой, быстрый, удобный. Без лишнего.</li>
+          <li>я не знаю?</li>
         </ul>
       </details>
     </li>
