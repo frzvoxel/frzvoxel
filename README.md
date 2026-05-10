@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>silly cat | Developer | System Utilities Enthusiast</b>
+  <b>silly cat | Developer</b>
 </p>
 
 ---
@@ -31,8 +31,8 @@
 ### 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
 </div>
 <br/>
 <div align="center">
