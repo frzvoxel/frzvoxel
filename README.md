@@ -68,4 +68,4 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-<p align="right"><font size="1"><i>v2.0 // Hacked by Knaic</i></font></p>
+<p align="right"><font size="1"><i>/i></font></p>
