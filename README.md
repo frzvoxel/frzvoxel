@@ -30,11 +30,8 @@
 
 ### 📊 Статистика GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knaic&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_rank=true&card_width=350" width="32%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knaic&layout=compact&theme=tokyonight&hide_border=true&card_width=350" width="32%" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knaic&theme=tokyonight&hide_border=true" width="32%" alt="GitHub Streak" />
+</p>
