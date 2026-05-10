@@ -23,7 +23,7 @@
 <div align="left">
   <ul>
     <li>
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/shield-cat.svg" width="15px" /> 
+      <img src="https://raw.githubusercontent.com/knaic/knaic/main/sillycat.jpg" width="15px" /> 
       **[CatUnlocker](https://github.com/knaic/CatUnlocker)** — *Системный комбайн для Windows* <details>
         <summary><i>Тех. стек</i></summary>
         <ul>
