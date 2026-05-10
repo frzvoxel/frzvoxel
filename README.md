@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет,+я+Knaic!;silly+cat+|++Developer+;C++%20|%20Lua%20|%20GDScript&font=Fira+Code&center=true&width=500&height=50&color=3b82f6&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет,+я+Knaic!;silly+cat+|++Developer;C++%20|%20Lua%20|%20GDScript&font=Fira+Code&center=true&width=500&height=50&color=3b82f6&vCenter=true" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,23 +23,13 @@
 <div align="left">
   <ul>
     <li>
-      <img src="https://raw.githubusercontent.com/knaic/knaic/main/sillycat.jpg" width="15px" /> 
-      **[CatUnlocker](https://github.com/knaic/CatUnlocker)** — *Системный комбайн для Windows* <details>
-        <summary><i>Описание</i></summary>
-        <ul>
-          <li>WinAPI, Реестр, DISM</li>
-        </ul>
-      </details>
+      <img src="https://raw.githubusercontent.com/knaic/knaic/main/sillycat.jpg" width="20px" /> 
+      **[CatUnlocker](https://github.com/knaic/CatUnlocker)** — *Системная утилита для Windows (WinAPI, Реестр, DISM)*
     </li>
+    <br>
     <li>
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/terminal.svg" width="15px" /> 
+      <img src="https://raw.githubusercontent.com/knaic/knaic/main/sillycat.jpg" width="20px" /> 
       **[CatUtils](https://github.com/knaic/CatUtils)** — *Набор утилит для Linux*
-      <details>
-        <summary><i>Описание</i></summary>
-        <ul>
-          <li>я не знаю?</li>
-        </ul>
-      </details>
     </li>
   </ul>
 </div>
@@ -57,15 +47,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=ru&hide_rank=true&text_color=5a5a5a&bg_color=0D1117&icon_color=ff007f&title_color=00c2ff" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knaic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_rank=true&text_color=5a5a5a&bg_color=0D1117&icon_color=ff007f&title_color=00c2ff" width="48%" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knaic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=ru&hide_rank=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knaic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_rank=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6" width="48%" />
 </div>
 
-<br>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knaic&theme=tokyonight&hide_border=true&date_format=d%20M%20'y&fire_color=ff1493&ring_color=00ffea&curr_streak_color=58b5f3&text_color=b0c4de&curr_streak_num_color=00ff99" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knaic&theme=tokyonight&hide_border=true&fire_color=3b82f6&ring_color=3b82f6&curr_streak_color=3b82f6&curr_streak_num_color=3b82f6&bg_color=0D1117" width="80%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-<p align="right"><font size="1"><i>/i></font></p>
