@@ -20,8 +20,7 @@
 ---
 
 ### 📂 Текущие проекты
-* <img src="https://raw.githubusercontent.com/knaic/knaic/main/sillycat.jpg" width="18px" /> **[CatUnlocker](https://github.com/knaic/CatUnlocker)** — Системная утилита для Windows (WinAPI, Реестр, DISM)
-* <img src="https://raw.githubusercontent.com/knaic/knaic/main/sillycat.jpg" width="18px" /> **[CatUtils](https://github.com/knaic/CatUtils)** — Набор утилит для Linux
+* <img src="https://raw.githubusercontent.com/knaic/knaic/main/sillycat.jpg" width="18px" /> **[CatCasino](https://github.com/knaic/CatCasino)** — Простая консольная игра по типу казино
 
 ---
 
